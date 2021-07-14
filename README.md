@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme Ferreira
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedroHen14)](https://github.com/Guilherme-Ferr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)](https://https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)](https://https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)
 
 ##
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)

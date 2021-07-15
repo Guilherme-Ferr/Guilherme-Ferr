@@ -1,6 +1,6 @@
 ## Olá, meu nome é Guilherme Ferreira, bem vindo ao meu perfil!👍
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)](https://https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)](https://www.linkedin.com/in/guilherme-ferreira-da-silva-265997191/)
 
 ### Essas são minhas preferencias e linguagens 👇
 

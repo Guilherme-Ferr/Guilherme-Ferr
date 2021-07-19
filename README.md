@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/‎-HTML-e66b00?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/‎-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=white)
+  ![](https://img.shields.io/badge/‎-TYPESCRIPT-002e78?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/‎-NODEJS-339933?logo=Node.js&logoColor=white)
   
 ### Essas são minhas preferencias 👇

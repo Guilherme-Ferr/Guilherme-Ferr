@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Ferr&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 👇 Essas são as linguagens dos meus projetos 
+### 👇 Essas são as linguagens e preferencias dos meus projetos
   
 ![](https://img.shields.io/badge/‎-HTML-e66b00?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white)
@@ -14,10 +14,5 @@
 ![](https://img.shields.io/badge/‎-TYPESCRIPT-002e78?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/‎-JAVA-cf1100?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/‎-NODEJS-339933?logo=Node.js&logoColor=white)
-  
-### 👇 Essas são minhas preferencias
-
-![](https://img.shields.io/badge/‎-KOTLIN-1cad1c?logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/‎-TYPESCRIPT-002e78?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/‎-SQL-003c9c?logo=mysql&logoColor=white)
-
+![](https://img.shields.io/badge/‎-KOTLIN-1cad1c?logo=kotlin&logoColor=white)

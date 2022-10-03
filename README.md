@@ -8,11 +8,10 @@
 
 ### 👇 Essas são as linguagens e preferencias dos meus projetos
   
+![](https://img.shields.io/badge/‎-TYPESCRIPT-002e78?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/‎-NODEJS-339933?logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/‎-KOTLIN-1cad1c?logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/‎-SQL-003c9c?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/‎-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/‎-HTML-e66b00?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/‎-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/‎-TYPESCRIPT-002e78?logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/‎-JAVA-cf1100?logo=java&logoColor=white)
-![](https://img.shields.io/badge/‎-NODEJS-339933?logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/‎-SQL-003c9c?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/‎-KOTLIN-1cad1c?logo=kotlin&logoColor=white)
